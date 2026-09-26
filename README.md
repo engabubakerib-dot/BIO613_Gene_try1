@@ -1,7 +1,7 @@
 # BIO613: DNA Sequence Analysis Project
 
 ## Author
-* **Student:** Abubaker Izzeldeen Babelkhair
+* **Student:**GROUP 2 GIT & GITHUB
 * **Course:** BIO-613 Programming for Bioinformatics
 * **Institution:** National University-Sudan
 * **Date:** September 2026
